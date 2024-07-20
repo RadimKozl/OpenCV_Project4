@@ -44,4 +44,4 @@ ipython_config.py
 .pytest_cache/*
 
 # Ignore video directory
-datasets
+datasets/videos/*
