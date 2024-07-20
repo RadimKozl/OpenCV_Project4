@@ -44,4 +44,5 @@ ipython_config.py
 .pytest_cache/*
 
 # Ignore video directory
-datasets/videos/*
+datasets/videos/test-videos.zip
+datasets/images/train/mask_no-mask_dataset.zip
