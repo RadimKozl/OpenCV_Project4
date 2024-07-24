@@ -1,5 +1,5 @@
 classes= 2
-train  = /kaggle/working/data_train.txt
-valid = /kaggle/working/data_test.txt
-names = /kaggle/working/class.names
-backup = /kaggle/working/backup/
+train  = data_train.txt
+valid = data_test.txt
+names = class.names
+backup = backup/
