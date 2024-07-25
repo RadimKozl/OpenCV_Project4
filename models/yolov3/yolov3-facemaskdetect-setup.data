@@ -2,4 +2,5 @@ classes= 2
 train  = data_train.txt
 valid = data_test.txt
 names = class.names
+labels =class.labels
 backup = backup/
