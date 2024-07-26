@@ -46,3 +46,7 @@ ipython_config.py
 # Ignore video directory
 datasets/test_dataset/test_dataset.zip
 datasets/train_dataset/mask_no-mask_dataset.zip
+
+# Very large models
+models/onnx/YOLOv7_FMD.onnx
+models/pt/YOLOv7_FMD.pt
