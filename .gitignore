@@ -44,12 +44,15 @@ ipython_config.py
 .pytest_cache/*
 
 # Ignore video directory
-datasets/test_dataset/test_dataset.zip
-datasets/train_dataset/mask_no-mask_dataset.zip
+data/images/test_images/test_dataset.zip
+data/images/train_images/mask_no-mask_dataset.zip
 
 # Very large models
-models/onnx/YOLOv7_FMD.onnx
-models/onnx/YOLOv6m_FMD.onnx
+data/models/onnx/YOLOv7_FMD_01.onnx
+data/models/onnx/YOLOv7_FMD_02.onnx
+data/models/onnx/YOLOv7_FMD_03.onnx
+data/models/onnx/YOLOv6m_FMD_01.onnx
+data/models/onnx/YOLOv6m_FMD_02.onnx
 
-models/pt/YOLOv7_FMD.pt
-models/pt/YOLOv6m_FMD.pt
+data/models/pt/YOLOv7_FMD.pt
+data/models/pt/YOLOv6m_FMD.pt
