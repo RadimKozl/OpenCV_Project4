@@ -9,6 +9,8 @@ Train a Face Mask Detector
 
 > ### *Project of [OpenCV University course](https://opencv.org/university/computer-vision-and-deep-learning-applications/)* 
 
+<img src="https://github.com/RadimKozl/OpenCV_Project4/blob/edcb3ff1ff3bed1648ac1802939ef9247952a309/notebooks/img/SVmetalLogo.png" alt="OpenCV logo" style="width: 200px;"/>
+
 > ### *This project was created with the support of [SVmetal spol. sr. o.](https://www.svmetal.cz/cs)*
 
 --------------------------------------------------------
