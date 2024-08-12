@@ -63,3 +63,19 @@ We tested ONNX models by three types of possibilities.
   We use the correct models `YOLOv9m_FMD.onnx`, `YOLOv8m_FMD.onnx`, `YOLOv5_FMD.onnx` with treshods 0.5 and 0.7. For more better results it will be neccesary change this values.
 
 [Show results](https://github.com/RadimKozl/OpenCV_Project4/tree/main/data/videos/results)
+
+### ***References and resources***
+
+------------------------------------
+
+[OpenCV - documentation](https://docs.opencv.org/4.x/index.html)
+
+[ONNX](https://onnx.ai/)
+
+[ONNX Runtime](https://onnxruntime.ai/)
+
+[Ultralytics - documentation YOLO](https://docs.ultralytics.com/models/yolov10/)
+
+[GitHub - Supervision](https://github.com/roboflow/supervision)
+
+[How to create YOLOv8-based object detection web service using Python, Julia, Node.js, JavaScript, Go and Rust](https://dev.to/andreygermanov/how-to-create-yolov8-based-object-detection-web-service-using-python-julia-nodejs-javascript-go-and-rust-4o8e)
