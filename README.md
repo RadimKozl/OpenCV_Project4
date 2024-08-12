@@ -21,3 +21,7 @@ Train a Face Mask Detector
 - ### ***[Test dataset](https://github.com/RadimKozl/OpenCV_Project4/blob/main/data/images/test_images/test_dataset.md)***
 
 ----------------------------------------------------
+
+[https://www.youtube.com/watch?v=ZHz1CjU15_U](https://www.youtube.com/watch?v=ZHz1CjU15_U)
+
+[https://www.youtube.com/watch?v=5YHZPa5KvzQ](https://www.youtube.com/watch?v=5YHZPa5KvzQ)

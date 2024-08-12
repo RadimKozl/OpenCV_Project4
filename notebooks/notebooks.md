@@ -79,3 +79,5 @@ We tested ONNX models by three types of possibilities.
 [GitHub - Supervision](https://github.com/roboflow/supervision)
 
 [How to create YOLOv8-based object detection web service using Python, Julia, Node.js, JavaScript, Go and Rust](https://dev.to/andreygermanov/how-to-create-yolov8-based-object-detection-web-service-using-python-julia-nodejs-javascript-go-and-rust-4o8e)
+
+[NETRON](https://netron.app/)
