@@ -22,6 +22,6 @@ Train a Face Mask Detector
 
 ----------------------------------------------------
 
-[https://www.youtube.com/watch?v=ZHz1CjU15_U](https://www.youtube.com/watch?v=ZHz1CjU15_U)
+[![Face Mask Detector - Video 1](https://www.youtube.com/watch?v=ZHz1CjU15_U)](https://www.youtube.com/watch?v=ZHz1CjU15_U)
 
-[https://www.youtube.com/watch?v=5YHZPa5KvzQ](https://www.youtube.com/watch?v=5YHZPa5KvzQ)
+[![Face Mask Detector - Video 2](https://www.youtube.com/watch?v=5YHZPa5KvzQ)](https://www.youtube.com/watch?v=5YHZPa5KvzQ)
